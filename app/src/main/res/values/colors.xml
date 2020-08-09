@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#D32F2F</color>
+    <color name="appColorPrimary">#03A9F4</color>
+    <color name="appColorPrimaryDark">#0288D1</color>
+    <color name="appColorAccent">#D32F2F</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="appColorBackGroundBlue">#178ecf</color>
+    <color name="appColorBackGroundLemon">#8cbf49</color>
+    <color name="appColorBackGroundSplash">@color/appColorPrimary</color>
+    <color name="appColorBackGroundOrange">#bd5c39</color>
+</resources>

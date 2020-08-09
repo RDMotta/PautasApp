@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="db_reference">pautas-rdm-app</string>
+    <string name="db_storage_reference">gs://pautas-rdm-app.appspot.com</string>
+    <string name="table_pautas">_pautas</string>
+
+    <string name="table_pautas_ativo">ativo</string>
+    <string name="table_pautas_dono">token</string>
+    <string name="table_user">_user</string>
+</resources>

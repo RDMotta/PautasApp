@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "983409916311",
+    "firebase_url": "https://pautas-rdm-app.firebaseio.com",
+    "project_id": "pautas-rdm-app",
+    "storage_bucket": "pautas-rdm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983409916311:android:8782c6b2cf2ba8d149acd2",
+        "android_client_info": {
+          "package_name": "com.rdm.uds.pautas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983409916311-rp5omt523qgrdipdqh80h3l8gdfk6u9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphXwj7nRQyLayQrMAgMHrRfsM3gbhU5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983409916311-rp5omt523qgrdipdqh80h3l8gdfk6u9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
